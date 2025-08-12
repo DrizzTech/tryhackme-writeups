@@ -5,15 +5,15 @@
 
 - [ ] Learn IP addresses (IPv4 basics)  
 - [ ] Learn Ports & protocols (TCP vs UDP)  
-- [ ] Learn What DNS does  
+- [x] Learn What DNS does  
 
 ### Practice  
-- [ ] Run `ping`, `traceroute`, `nslookup`, `curl` on your own network (at least 3 times each)  
-- [ ] Complete TryHackMe room: Intro to Networking  
+- [x] Run `ping`, `traceroute`, `nslookup`, `curl` on your own network (at least 3 times each)  
+- [x] Complete TryHackMe room: Intro to Networking  
 
 ### Quota  
 - [ ] Complete the TryHackMe room  
-- [ ] Run all commands at least 3 times  
+- [x] Run all commands at least 3 times  
 
 ---
 
