@@ -3,8 +3,8 @@
 ## Day 1 – Networking 101  
 **Goal:** Understand how devices talk to each other.
 
-- [ ] Learn IP addresses (IPv4 basics)  
-- [ ] Learn Ports & protocols (TCP vs UDP)  
+- [x] Learn IP addresses (IPv4 basics)  
+- [x] Learn Ports & protocols (TCP vs UDP)  
 - [x] Learn What DNS does  
 
 ### Practice  
@@ -20,8 +20,8 @@
 ## Day 2 – Linux Basics  
 **Goal:** Move confidently in a Linux terminal.
 
-- [ ] Learn commands: `ls`, `cd`, `pwd`, `mkdir`, `rm`, `cat`, `nano`  
-- [ ] Learn File permissions (`chmod`, `chown`)  
+- [x] Learn commands: `ls`, `cd`, `pwd`, `mkdir`, `rm`, `cat`, `nano`  
+- [x] Learn File permissions (`chmod`, `chown`)  
 
 ### Practice  
 - [ ] Make a folder, create a file, change its permissions, delete it  
@@ -41,7 +41,7 @@
 
 ### Practice  
 - [ ] Search for a file with `find`  
-- [ ] Search for a keyword in a file with `grep`  
+- [x] Search for a keyword in a file with `grep`  
 - [ ] Complete TryHackMe: Linux Fundamentals Part 2  
 
 ### Quota  
@@ -53,8 +53,8 @@
 ## Day 4 – Basic Python for Security  
 **Goal:** Automate small tasks with Python.
 
-- [ ] Learn Variables, loops, conditionals  
-- [ ] Learn reading & writing files  
+- [x] Learn Variables, loops, conditionals  
+- [x] Learn reading & writing files  
 - [ ] Learn using the `requests` library  
 
 ### Practice  
